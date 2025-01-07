@@ -7,3 +7,4 @@ I've learnt how to:
     1. Create a repository on GitHub
     2. Clone the repository to my machine
     3. Use basic HTML to create a website
+    4. Practice Git workflow
